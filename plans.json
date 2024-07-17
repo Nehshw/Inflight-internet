@@ -1,0 +1,21 @@
+
+{
+    "plans": [
+      {
+        "id": "1",
+        "name": "Basic Plan",
+        "duration": "2",
+        "dataLimit": "1",
+        "cost": 5
+      },
+      {
+        "id": "2",
+        "name": "Premium Plan",
+        "duration": "4",
+        "dataLimit": "5",
+        "cost": 10
+      }
+    
+    ]
+  }
+  
